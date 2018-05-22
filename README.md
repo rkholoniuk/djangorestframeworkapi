@@ -1,3 +1,3 @@
 
-docker build -t coreapi .
-docker run --name coreapi -p 8000:8000 coreapi
+  docker build -t coreapi .
+  docker run --name coreapi -p 8000:8000 coreapi
